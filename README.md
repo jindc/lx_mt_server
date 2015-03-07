@@ -2,7 +2,7 @@
 一个linux C多线程服务器,内部机制类似于apache
 
 项目经过valgrind 内存测试及压力测试
-
+要被访问的网页放到 home/webhome 目录下
 编译：
     该项目依赖于
     
